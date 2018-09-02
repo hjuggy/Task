@@ -1,0 +1,17 @@
+a
+a	8
+aa	7
+aaa	2
+ar	2
+e
+eaa	2
+m
+mq	2
+mqq	1
+q
+qqq	3
+qq	3
+q	2
+qaq	1
+r
+ra	3
